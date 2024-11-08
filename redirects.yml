@@ -1,0 +1,5 @@
+redirects:
+  - src: /docs/intro1
+    dst: /docs/intro
+  - src: /docs/intro2
+    dst: /docs/intro
